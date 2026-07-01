@@ -22,7 +22,7 @@ or
 pnpm install
 ```
 
-Run project
+### Run project
 
 ```bash
 npm run dev
@@ -33,7 +33,7 @@ pnpm dev
 
 ```
 
-Open in browser
+### Open in browser
 ```bash
 http://localhost:5173
 ```
